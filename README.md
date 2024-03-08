@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imfaldi&label=Profile%20views&color=0e75b6&style=flat" alt="imfaldi" /> </p>
 
-<img align="right" src="https://gifdb.com/images/high/sitting-bored-anime-girl-b4ya2pnrdv38w7qs.webp"> 
+<img align="right" src="https://gifdb.com/images/high/sitting-bored-anime-girl-b4ya2pnrdv38w7qs.webp" width="400"> 
 
 - 👩‍💼 I’m currently working as a CEO **DigitalFast.Id**
 
