@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imfaldi&label=Profile%20views&color=0e75b6&style=flat" alt="imfaldi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imfaldi" alt="imfaldi" /></a> </p>
+<img align="right" src="https://gifdb.com/images/high/sitting-bored-anime-girl-b4ya2pnrdv38w7qs.webp"> 
 
 - 👩‍💼 I’m currently working as a CEO **DigitalFast.Id**
 
