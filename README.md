@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imfaldi&label=Profile%20views&color=0e75b6&style=flat" alt="imfaldi" /> </p>
 
-<img align="right" src="https://gifdb.com/images/high/sitting-bored-anime-girl-b4ya2pnrdv38w7qs.webp" width="400"> 
+<img align="right" src="https://gifdb.com/images/high/sitting-bored-anime-girl-b4ya2pnrdv38w7qs.webp" width="350"> 
 
 - 👩‍💼 I’m currently working as a CEO **DigitalFast.Id**
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rifaldi indrajaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifaldi indrajaya" height="30" width="40" /></a>
-<a href="https://instagram.com/@rifaldi_id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rifaldi_id" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rifaldi-indrajaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifaldi indrajaya" height="30" width="40" /></a>
+<a href="https://instagram.com/rifaldi_id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rifaldi_id" height="30" width="40" /></a>
 <a href="https://discord.gg/is_not_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="is_not_me" height="30" width="40" /></a>
 </p>
 
