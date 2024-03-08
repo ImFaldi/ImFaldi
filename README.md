@@ -1,3 +1,4 @@
+![logo](https://media1.giphy.com/media/1jAfqyES9fzICXv6mR/giphy.gif?cid=ecf05e47hcs5bk2sbogejw62yo1ql93hv8jq0oj9hsnmh006&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Rifaldi Indrajaya</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia, ready to take your project to the next level!</h3>
 
