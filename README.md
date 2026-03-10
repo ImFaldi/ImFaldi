@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Rifaldi%20Indrajaya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CEO%20DigitalFast.Id&descAlignY=60&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Rifaldi%20Indrajaya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -21,12 +21,11 @@
 
 <img align="right" src="https://gifdb.com/images/high/sitting-bored-anime-girl-b4ya2pnrdv38w7qs.webp" width="300" />
 
-- 👔 Currently working as **CEO** at [DigitalFast.Id](https://digitalfast.id)
-- 🌱 Currently learning **Next.js · Vue.js · Express.js**
-- 🤝 Looking to collaborate on **DigitalFast.Id**
-- 🔭 Currently working on **Propresenta**
-- 📫 Reach me at **rifaldibpn2@gmail.com**
-- ⚡ Fun fact: **I can code for hours without losing focus!**
+- 🚀 Current Focus: Leveling up my full-stack expertise with Next.js, Vue.js, and Express.js.
+- 🛠️ Architectural Mindset: Passionate about building modular, clean, and scalable system management applications.
+- 🌐 Open for Collaboration: Excited to contribute to open-source projects or innovative professional opportunities.
+- 📫 Reach Me: Feel free to drop a message at rifaldibpn2@gmail.com.
+- ⚡ Fun Fact: I thrive in deep-work sessions; I can code for hours without losing focus until the logic is flawless.
 
 <br clear="right"/>
 
