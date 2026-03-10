@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Hi+there!+I%27m+Rifaldi+Indrajaya+%F0%9F%91%8B;Full-Stack+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;CEO+of+DigitalFast.Id+%F0%9F%9A%80;Always+learning+new+technologies+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Hi+there!+I%27m+Rifaldi+Indrajaya+%F0%9F%91%8B;Full-Stack+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -90,13 +90,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-<!-- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imfaldi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Rifaldi GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfaldi&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" /> -->
-
-</div>
 
 <div align="center">
 
