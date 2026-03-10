@@ -17,22 +17,22 @@
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
 <img align="right" src="https://gifdb.com/images/high/sitting-bored-anime-girl-b4ya2pnrdv38w7qs.webp" width="300" />
 
--  Currently working as **CEO** at [DigitalFast.Id](https://digitalfast.id)
--  Currently learning **Next.js  Vue.js  Express.js**
--  Looking to collaborate on **DigitalFast.Id**
--  Currently working on **Propresenta**
--  Reach me at **rifaldibpn2@gmail.com**
--  Fun fact: **I can code for hours without losing focus!**
+- 👔 Currently working as **CEO** at [DigitalFast.Id](https://digitalfast.id)
+- 🌱 Currently learning **Next.js · Vue.js · Express.js**
+- 🤝 Looking to collaborate on **DigitalFast.Id**
+- 🔭 Currently working on **Propresenta**
+- 📫 Reach me at **rifaldibpn2@gmail.com**
+- ⚡ Fun fact: **I can code for hours without losing focus!**
 
 <br clear="right"/>
 
 ---
 
-##  Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rifaldi-indrajaya)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rifaldi_id)
@@ -41,9 +41,9 @@
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
-###  Frontend
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -55,7 +55,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-###  Backend
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -67,13 +67,13 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-###  Mobile
+### 📱 Mobile
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
-###  Database & Cloud
+### 🗄️ Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -81,7 +81,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-###  Design & Tools
+### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -89,7 +89,7 @@
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
